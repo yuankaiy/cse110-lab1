@@ -3,4 +3,4 @@ Yuan-Kai Yang's User Page
 
 My favorite programming language is Python.
 
-[Go to my webpage](index.md)
+Go to my webpage: [yuankaiy.github.io/cse110-lab1/](yuankaiy.github.io/cse110-lab1/)
