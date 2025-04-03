@@ -8,7 +8,7 @@ Something I always say is
 
 > Heck yeah
 
-This is my Quote Code: `print("This is literally my favorite class)`
+This is my Quote Code: `print("This is literally my favorite class")`
 
 Here is a block of code
 ```
