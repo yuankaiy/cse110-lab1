@@ -8,6 +8,16 @@ Something I always say is
 
 > Heck yeah
 
+This is my Quote Code: `print("This is literally my favorite class)`
+
+Here is a block of code
+```
+def myFunction():
+    x = 1 + 1
+    myFunction()
+    return 0
+```
+
 My favorite website is [Google.com](https://google.com/)
 
 Link to the top heading section: [Go to Top](#cse-110-lab-1).
