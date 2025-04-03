@@ -22,7 +22,7 @@ My favorite website is [Google.com](https://google.com/)
 
 Link to the top heading section: [Go to Top](#cse-110-lab-1).
 
-[Click this for the README file, which is a relative link](README.md)
+[Click this for the other MD file, which is a relative link](extra.md)
 
 This is my ordered list
 1. Pines
